@@ -1,0 +1,10 @@
+#pasta do workspaces
+.metadata/
+.recommenders/
+[Ss]ervers/
+
+
+#pastas e arquivo do pojeto 
+.serrings/
+*.class 
+lib/
